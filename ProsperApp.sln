@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProseperApp", "ProseperApp.csproj", "{0F405134-3086-6ED8-3D4F-0B1D633FF82A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F405134-3086-6ED8-3D4F-0B1D633FF82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F405134-3086-6ED8-3D4F-0B1D633FF82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F405134-3086-6ED8-3D4F-0B1D633FF82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F405134-3086-6ED8-3D4F-0B1D633FF82A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9F26C25-DE85-4FEB-A808-7BF7E9114EA8}
+	EndGlobalSection
+EndGlobal
